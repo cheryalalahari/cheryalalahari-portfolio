@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my work, projects, skills, and contact information as a Frontend Web Developer.
 
-🌐 **Live Site**: [cheryalalahari-portfolio.netlify.app](https://cheryalalahari-portfolio.netlify.app/)
+🌐 **Live Site**: (https://cheryalalahari-portfolio.netlify.app/)
 
 ## ✨ Features
 
